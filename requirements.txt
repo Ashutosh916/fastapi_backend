@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose
+python-dotenv
+httpx
+google-genai
+passlib[argon2]
+pydantic[email]
